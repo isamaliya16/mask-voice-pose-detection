@@ -1,0 +1,9 @@
+0 Background Noise
+1 Down
+2 Left
+3 No
+4 On
+5 Right
+6 Stop
+7 Up
+8 Yes
