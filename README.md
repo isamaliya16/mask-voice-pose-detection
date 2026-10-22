@@ -29,13 +29,13 @@
 
 <div align="center">
 
-[![Watch the Project Walkthrough](https://img.shields.io/badge/▶%20Watch%20Full%20Walkthrough-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](#)
+[![Watch the Project Walkthrough](https://img.shields.io/badge/▶%20Watch%20Full%20Walkthrough-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1fgX632JjCGQxfwgIektDRZ9JJoMLFZW5/view?usp=sharing)
 
 
 🎥 **A complete video explanation (face + screen, 5–10 min)** covering the complete project workflow, including loading CIFAR-10 from the local batch files, normalisation and one-hot labels, manual convolution, padding and strides, pooling and flatten, LeNet-5 and the custom CNN, training with EarlyStopping and ReduceLROnPlateau, confusion-matrix analysis, data augmentation, MobileNetV2 feature extraction and fine-tuning, the residual connection, and the final model comparison.
 
 
-> 📌 *Click the button above or [open the video directly →]()*
+> 📌 *Click the button above or [open the video directly →](https://drive.google.com/file/d/1fgX632JjCGQxfwgIektDRZ9JJoMLFZW5/view?usp=sharing)*
 
 </div>
 
